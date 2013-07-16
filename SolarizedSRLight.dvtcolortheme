@@ -35,7 +35,7 @@
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.933333 0.909804 0.835294 1</string>
+	<string>0.345098 0.431373 0.458824 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.0393807 0.160116 0.198333 1</string>
 	<key>DVTSourceTextSelectionColor</key>
